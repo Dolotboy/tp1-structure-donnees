@@ -18,5 +18,31 @@
     <ClCompile Include="tp1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DossierProfesseur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Professeur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cours.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Etudiant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DossierProfesseur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Professeur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cours.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Etudiant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
