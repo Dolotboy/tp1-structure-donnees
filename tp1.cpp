@@ -48,12 +48,13 @@ void executerOperationsDepuisFichier(const std::string& cheminFichier, DossierPr
 
 int main()
 {
-    //std::cout << "Hello World!\n";
 
     DossierProfesseur dossier;
     dossier.chargerProfesseurs();
     
     executerOperationsDepuisFichier("operations.txt", dossier);
+    
+    //Tests 
     //dossier.supprimer(2);
     //dossier.supprimer(10);
     //dossier.supprimer(15);
