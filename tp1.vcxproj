@@ -142,6 +142,7 @@
   <ItemGroup>
     <Text Include="donnees.txt" />
     <Text Include="operations.txt" />
+    <Text Include="README.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
