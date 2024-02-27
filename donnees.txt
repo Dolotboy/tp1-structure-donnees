@@ -1,0 +1,303 @@
+1
+Durand
+Jean
+INF100
+INF101
+INF102
+INF103
+#
+Léa Martin
+Danièle Mace
+Emma Roux
+Nadia Vaganay
+#
+2
+Petit
+Marie
+INF102
+INF103
+INF105
+INF100
+INF101
+#
+Lucas Dupont
+Carine Jacquier
+Léa Martin
+Danièle Mace
+Emma Roux
+Nadia Vaganay
+#
+3
+Moreau
+Sophie
+INF104
+INF105
+INF100
+INF101
+#
+Camille Bernard
+Marie-Madeleine Baumé
+Zoé Lambert
+Félix Rochette
+Alexandre Robin
+Frank LaRue
+#
+4
+Leroy
+Paul
+INF106
+INF107
+INF138
+INF139
+INF113
+INF114
+INF115
+#
+Emma Roux
+Nadia Vaganay
+Lucas Dupont
+Carine Jacquier
+#
+5
+Simon
+Isabelle
+INF108
+INF109
+INF100
+INF101
+#
+Hugo Blanc
+Marie Périer
+Emma Roux
+Nadia Vaganay
+Lucas Dupont
+Carine Jacquier
+#
+6
+Michel
+François
+INF110
+INF111
+INF138
+INF139
+INF113
+INF114
+INF115
+#
+Inès Leroux
+Nikita Gachet
+Hugo Blanc
+Marie Périer
+Emma Roux
+Nadia Vaganay
+Lucas Dupont
+Carine Jacquier
+#
+7
+Lefevre
+Julien
+INF112
+INF113
+INF114
+INF115
+#
+Fanny Morel
+Roger Charpentier
+Inès Leroux
+Nikita Gachet
+Jules Poirier
+Damien Bouhier
+#
+8
+Perrin
+Sophia
+INF114
+INF115
+INF100
+INF101
+#
+Jules Poirier
+Damien Bouhier
+Louise Martinez
+Sylvain Vérany
+#
+9
+Morin
+Xavier
+INF116
+INF117
+INF113
+INF114
+INF115
+#
+Louise Martinez
+Sylvain Vérany
+Zoé Lambert
+Félix Rochette
+Alexandre Robin
+#
+10
+Fontaine
+Chloé
+INF118
+INF119
+INF120
+INF121
+INF124
+INF125
+INF114
+
+#
+Alexandre Robin
+Frank LaRue
+Sara Blanchard
+Roberte Alard
+Marie Dupond
+Émilien Barrault
+#
+11
+Da Silva
+Lucas
+INF120
+INF121
+INF124
+INF125
+INF114
+
+#
+Alice Caron
+Gérôme Mazet
+Jules Poirier
+Damien Bouhier
+Louise Martinez
+Sylvain Vérany
+#
+12
+Bonnet
+Mathieu
+INF122
+INF123
+INF126
+INF127
+INF128
+INF129
+#
+Zoé Lambert
+Félix Rochette
+Alexandre Robin
+Frank LaRue
+#
+13
+Dupuis
+Alexandre
+INF124
+INF125
+INF114
+INF115
+INF128
+INF129
+#
+Théo Marchand
+Loïc Lucroy
+Marie Dupond
+Émilien Barrault
+#
+14
+Guillaume
+Charlotte
+INF126
+INF127
+INF106
+INF107
+INF138
+#
+Sara Blanchard
+Roberte Alard
+Marie Dupond
+Émilien Barrault
+#
+15
+Nguyen
+Thierry
+INF128
+INF129
+INF114
+INF115
+#
+Juliette Legrand
+Annie Robiquet
+Théo Marchand
+Loïc Lucroy
+#
+16
+Girard
+Nathalie
+INF130
+INF131
+INF110
+INF111
+#
+Maxime Garnier
+Sylvia Poulin
+Danièle Mace
+Emma Roux
+Nadia Vaganay
+#
+17
+Rousseau
+Vincent
+INF132
+INF133
+INF106
+INF107
+INF138
+#
+Lola Schmitt
+Antoine Courbet
+Roberte Alard
+Marie Dupond
+Émilien Barrault
+#
+18
+Mathieu
+Emilie
+INF134
+INF135
+INF128
+INF129
+#
+Rémi Barbier
+Séverin Poullain
+Juliette Legrand
+Annie Robiquet
+Théo Marchand
+Loïc Lucroy
+#
+19
+Lefebvre
+Claire
+INF136
+INF137
+INF110
+INF111
+#
+Eva Renard
+William Tremblay
+Théo Marchand
+Loïc Lucroy
+#
+20
+Marchal
+Laurent
+INF138
+INF139
+INF128
+INF129
+#
+Marie Dupond
+Émilien Barrault
+Rémi Barbier
+Séverin Poullain
+Eva Renard
+William Tremblay
+#
