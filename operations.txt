@@ -1,0 +1,6 @@
++ 1 // Affiche le profil du professeur avec l'id 1
+- 2 // Supprime le professeur avec l'id 2 de la liste chaînée
++ 3 // Affiche le profil du professeur avec l'id 3
+>> // Affiche le nom du ou des professeurs ayant le plus d'étudiants
+* // Affiche le cours ou les cours les plus demandés
++ 5 // Affiche le profil du professeur avec l'id 5
