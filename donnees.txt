@@ -6,8 +6,8 @@ INF101
 INF102
 INF103
 #
-Léa Martin
-Danièle Mace
+Lea Martin
+Daniele Mace
 Emma Roux
 Nadia Vaganay
 #
@@ -22,8 +22,8 @@ INF101
 #
 Lucas Dupont
 Carine Jacquier
-Léa Martin
-Danièle Mace
+Lea Martin
+Daniele Mace
 Emma Roux
 Nadia Vaganay
 #
@@ -36,11 +36,13 @@ INF100
 INF101
 #
 Camille Bernard
-Marie-Madeleine Baumé
-Zoé Lambert
-Félix Rochette
+Marie-Madeleine Baume
+Zoe Lambert
+Felix Rochette
 Alexandre Robin
 Frank LaRue
+Emma Roux
+Nadia Vaganay
 #
 4
 Leroy
@@ -67,7 +69,7 @@ INF100
 INF101
 #
 Hugo Blanc
-Marie Périer
+Marie Perier
 Emma Roux
 Nadia Vaganay
 Lucas Dupont
@@ -75,7 +77,7 @@ Carine Jacquier
 #
 6
 Michel
-François
+Francois
 INF110
 INF111
 INF138
@@ -84,10 +86,10 @@ INF113
 INF114
 INF115
 #
-Inès Leroux
+Ines Leroux
 Nikita Gachet
 Hugo Blanc
-Marie Périer
+Marie Perier
 Emma Roux
 Nadia Vaganay
 Lucas Dupont
@@ -103,7 +105,7 @@ INF115
 #
 Fanny Morel
 Roger Charpentier
-Inès Leroux
+Ines Leroux
 Nikita Gachet
 Jules Poirier
 Damien Bouhier
@@ -119,7 +121,7 @@ INF101
 Jules Poirier
 Damien Bouhier
 Louise Martinez
-Sylvain Vérany
+Sylvain Verany
 #
 9
 Morin
@@ -131,14 +133,14 @@ INF114
 INF115
 #
 Louise Martinez
-Sylvain Vérany
-Zoé Lambert
-Félix Rochette
+Sylvain Verany
+Zoe Lambert
+Felix Rochette
 Alexandre Robin
 #
 10
 Fontaine
-Chloé
+Chloe
 INF118
 INF119
 INF120
@@ -153,7 +155,7 @@ Frank LaRue
 Sara Blanchard
 Roberte Alard
 Marie Dupond
-Émilien Barrault
+emilien Barrault
 #
 11
 Da Silva
@@ -166,11 +168,11 @@ INF114
 
 #
 Alice Caron
-Gérôme Mazet
+Gerôme Mazet
 Jules Poirier
 Damien Bouhier
 Louise Martinez
-Sylvain Vérany
+Sylvain Verany
 #
 12
 Bonnet
@@ -182,8 +184,8 @@ INF127
 INF128
 INF129
 #
-Zoé Lambert
-Félix Rochette
+Zoe Lambert
+Felix Rochette
 Alexandre Robin
 Frank LaRue
 #
@@ -197,10 +199,10 @@ INF115
 INF128
 INF129
 #
-Théo Marchand
+Theo Marchand
 Loïc Lucroy
 Marie Dupond
-Émilien Barrault
+emilien Barrault
 #
 14
 Guillaume
@@ -214,7 +216,7 @@ INF138
 Sara Blanchard
 Roberte Alard
 Marie Dupond
-Émilien Barrault
+emilien Barrault
 #
 15
 Nguyen
@@ -226,7 +228,7 @@ INF115
 #
 Juliette Legrand
 Annie Robiquet
-Théo Marchand
+Theo Marchand
 Loïc Lucroy
 #
 16
@@ -239,7 +241,7 @@ INF111
 #
 Maxime Garnier
 Sylvia Poulin
-Danièle Mace
+Daniele Mace
 Emma Roux
 Nadia Vaganay
 #
@@ -256,7 +258,7 @@ Lola Schmitt
 Antoine Courbet
 Roberte Alard
 Marie Dupond
-Émilien Barrault
+emilien Barrault
 #
 18
 Mathieu
@@ -266,11 +268,11 @@ INF135
 INF128
 INF129
 #
-Rémi Barbier
-Séverin Poullain
+Remi Barbier
+Severin Poullain
 Juliette Legrand
 Annie Robiquet
-Théo Marchand
+Theo Marchand
 Loïc Lucroy
 #
 19
@@ -283,7 +285,7 @@ INF111
 #
 Eva Renard
 William Tremblay
-Théo Marchand
+Theo Marchand
 Loïc Lucroy
 #
 20
@@ -295,9 +297,9 @@ INF128
 INF129
 #
 Marie Dupond
-Émilien Barrault
-Rémi Barbier
-Séverin Poullain
+emilien Barrault
+Remi Barbier
+Severin Poullain
 Eva Renard
 William Tremblay
 #
